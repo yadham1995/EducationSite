@@ -6,7 +6,7 @@ EducationSite-App Made In Spring Boot
 * Java 11 
 * MySql DB (docker-compose)
 
-## Steps To Run The App:
+## Steps To Run The App: (swagger link after you run the app: http://localhost:9091/swagger-ui/#/) 
 1. run the docker-compose file under the resources folder in the project. 
 2. using this command: docker-compose -f docker-compose.yml up .
 3. when the application starts it will automatically generates the ddl and create tables for you.
